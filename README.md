@@ -1,2 +1,2 @@
 # Non_EOF_Based_Emulator
-Non Empirical Orthogonal Functions Based Emulation
+This repository contains the non Empirical Orthogonal Functions (EOF) based climate model emulation.
