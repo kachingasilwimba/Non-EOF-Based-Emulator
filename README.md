@@ -1,2 +1,5 @@
-# Non_EOF_Based_Emulator
-This repository contains the non Empirical Orthogonal Functions (EOF) based climate model emulation using Artificial Neural Networks.
+# Non-Empirical Orthogonal Function Climate Land Model Emulation
+
+This repository contains code and data for a non-empirical orthogonal function climate land model emulation project. The goal of this project is to develop a more efficient and accurate model for predicting climate patterns using non-empirical orthogonal function techniques.
+
+
